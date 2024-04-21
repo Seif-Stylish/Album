@@ -1,0 +1,18 @@
+.createAlbumForm {
+    border: 2px solid #007bff;
+    border-radius: 7px;
+}
+
+.moveImagesForm {
+    border: 2px solid #007bff;
+    border-radius: 7px;
+}
+
+.albumLink:hover {
+    text-decoration: none;
+    color: #007bff;
+}
+
+.dropDownDiv {
+    display: none;
+}
